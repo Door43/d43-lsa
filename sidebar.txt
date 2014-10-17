@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[lsa:home|Door43 (lsa)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-lsa|d43-lsa repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-lsa/archive/master.zip|d43-lsa.zip]]
+
+**Recent Changes**
+{{changes>ns = lsa}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/lsa|Ethnologue data]]
+
